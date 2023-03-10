@@ -1,3 +1,5 @@
+<!--
+
 - [ ] Check List
   - [x] Responsive
   - [x] hover state
@@ -10,3 +12,5 @@
   - [ ] Allow users to drag and drop tasks to change their status and re-order them in a column 
   - [ ] Keep track of any changes, even after refreshing the browser (localStorage could be used for this if you're not building out a full-stack app)
   - [ ] Build this project as a full-stack application
+  
+  -->
